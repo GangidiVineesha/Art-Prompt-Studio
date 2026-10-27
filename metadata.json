@@ -1,0 +1,6 @@
+{
+  "name": "ArtPrompt Studio - AI Style Experiment Lab",
+  "description": "Advanced prompt-versus-image comparison laboratory exploring style descriptions, token conditioning, and visual synthesis in diffusion models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
